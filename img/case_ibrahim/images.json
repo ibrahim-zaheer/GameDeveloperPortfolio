@@ -1,0 +1,34 @@
+{
+  "about": {
+    "shelter": "https://i.postimg.cc/nzdxVLvZ/shelter.png",
+    "shelter1": "https://i.postimg.cc/rs3LWYnP/image.png",
+    "shelter2": "https://i.postimg.cc/CM4GrJrq/shelter2.png",
+    "shelter3": "https://i.postimg.cc/0yCrPHmY/shelter3.png",
+    "shelter4": "https://i.postimg.cc/7Lf4dBNY/shelter4.jpg"
+
+  },
+  "quizMaster": {
+    "shelter": "https://i.postimg.cc/y6fPYvhz/quis-Master.png",
+    "shelter1": "https://i.postimg.cc/WzjbBG3W/quis-Master1.png",
+    "shelter2": "https://i.postimg.cc/ryCpSPnv/quis-Master2.png",
+    "shelter3": "https://i.postimg.cc/3xGVvP9G/quis-Master3.png",
+    "shelter4": "https://i.postimg.cc/1zPCN48x/quis-Master4.png"
+  },
+  "escapeTheice":{
+    "shelter": "https://i.postimg.cc/25dJq7pv/escape-the-ice-2.png",
+    "shelter1": "https://i.postimg.cc/L6RV5F9y/escape-the-ice-2.png",
+    "shelter2": "https://i.postimg.cc/VLYj19gp/escape-the-ice-3.png",
+    "shelter3": "https://i.postimg.cc/Z5LYm3f7/escape-the-ice-4.png",
+    "shelter4": "https://i.postimg.cc/BvV0ZC2g/escape-the-ice-5.png"
+  },
+  "Index":{
+    "shelter": "https://i.postimg.cc/25dJq7pv/escape-the-ice-2.png",
+    "aboutme": "https://i.postimg.cc/PJBRSDqQ/aboutme.png",
+    "school":"https://i.postimg.cc/FKJvSGbZ/leads-Gammer-School.png",
+    "college":"https://i.postimg.cc/Vv4Pwh1Y/punjab-college.png",
+    "university":"https://i.postimg.cc/9Mj672Qm/comsats-University.png",
+    "services": "https://i.postimg.cc/XYDQLFDG/Services.png",
+    "shelter3": "https://i.postimg.cc/Z5LYm3f7/escape-the-ice-4.png",
+    "shelter4": "https://i.postimg.cc/BvV0ZC2g/escape-the-ice-5.png"
+  }
+}
